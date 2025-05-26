@@ -1,16 +1,39 @@
-# projeto_novo
+<samp>
 
-A new Flutter project.
+# <p align='center'>Que Filme É esse ?</p>
+## <p align='center'>Mobile Version: Android | IOS</p>
 
-## Getting Started
+- ### Projeto de Listagem de Filmes Utilizando TMDB API!
 
-This project is a starting point for a Flutter application.
+- ### Funcionalidades :
+   - - ### Lista os Filmes mais Atuais de Acordo com a Categoria.
+  - - ###  Pesquisa filmes pelo nome .
+  - - ### Traz Informações Sobre Cada Filme.
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+
+</p>
+
+
+## <p align='center'>@rodrigocc</p>
+
+<p align="center">
+<a href="https://github.com/rodrigocc">
+  <img align="center" alt="Rodrigo Araujo | GitHub" width="45px" src="assets\images\github ico.png" />
+
+<a href="https://www.linkedin.com/in/rodrigo-araujo-1a8509174/">
+  <img align="center" alt="Rodrigo Araujo | LinkedIn" width="45px" src="assets\images\linkedin ico.ico" />
+
+</p>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2022-present, Rodrigo Araujo.</sub>
+</p>
+<p align="center">Que Filme é esse ? <a href="/LICENSE">is MIT licensed 💖</a></p>
+</samp>

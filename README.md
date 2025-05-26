@@ -11,7 +11,7 @@
    - - ### Traz Informações Sobre Cada Filme.
 
 <p align="center">
-  <img src="https://i.ibb.co/jgjF8Kt/Screenshot-1700417160.png" alt= "" />
+  <img src="https://i.ibb.co/SXxt0QGD/Screenshot-2025-05-26-at-15-03-39.png" alt= "" />
 </p>
 
 ## <p align='center'>@rodrigocc</p>

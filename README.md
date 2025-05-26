@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://github.com/rodrigocc">
-  <img align="center" alt="Rodrigo Araujo | GitHub" width="45px" src="assets/images/github ico.png" />
+  
 </a>
 
 <a href="https://www.linkedin.com/in/rodrigo-araujo-1a8509174/">

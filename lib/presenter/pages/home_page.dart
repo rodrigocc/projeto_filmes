@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('Filmes', style: Theme.of(context).textTheme.headlineSmall),
+            Text('Filmes', style: Theme.of(context).textTheme.headlineLarge),
             // _buildSearchMovieBar(),
             SearchMovieBar(homeController: controller),
             Observer(

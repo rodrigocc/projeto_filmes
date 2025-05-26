@@ -69,9 +69,15 @@ abstract class _HomeControllerBase with Store {
 
   @action
   Future<void> fetchMovies(int genrerId) async {
-    final List<MovieResults> movies = await fetchMovieByGenrer(genrerId);
+    isLoadingData = true;
 
-    this.movies = movies;
+    try {
+      final List<MovieResults> movies = await fetchMovieByGenrer(genrerId);
+
+      this.movies = movies;
+    } finally {
+      isLoadingData = false;
+    }
   }
 
   @action

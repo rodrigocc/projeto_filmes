@@ -9,6 +9,13 @@
    - - ### Lista os Filmes mais Atuais de Acordo com a Categoria.
    - - ### Pesquisa filmes pelo nome.
    - - ### Traz Informações Sobre Cada Filme.
+    
+
+- ### Arquitetura Utilizada :
+
+ -- Clean Architechiture .
+ -- MobX Como Gerenciador de Estado.
+ -- Get It para a Injeção de dependências.
 
 <p align="center">
    <img src="https://i.ibb.co/SXxt0QGD/Screenshot-2025-05-26-at-15-03-39.png" alt="App Screenshot 1" width="300px" />
